@@ -16,3 +16,7 @@ Cumulative Returns over a 5 year period
 
 Bollinger Bands
 <img width="1140" alt="Screenshot 2022-05-16 at 17 06 31" src="https://user-images.githubusercontent.com/98121213/168701638-84be5320-0cad-4a0c-8823-84a7121a92cc.png">
+
+
+Beta and Alpha calculations using CAPM formula and SciPy linear regression
+<img width="1117" alt="Screenshot 2022-05-16 at 19 12 38" src="https://user-images.githubusercontent.com/98121213/168714439-0387bef8-4ec6-4dd2-b984-e42e38335e26.png">
