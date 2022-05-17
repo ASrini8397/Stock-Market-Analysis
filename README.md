@@ -2,10 +2,10 @@
 Returns Analysis, Volume Analysis, and Technical Analysis of JPM, BAC, RY, CitiGroup, and HSBC 
 
 
-
+Distribution of Daily returns over 5 years
 <img width="1121" alt="Screenshot 2022-05-16 at 17 03 01" src="https://user-images.githubusercontent.com/98121213/168701701-fe5de27b-b5f1-4548-9f95-ca8cb2206fb4.png">
 
-
+Cumulative Returns over a 5 year period
 <img width="1130" alt="Screenshot 2022-05-16 at 17 03 16" src="https://user-images.githubusercontent.com/98121213/168701681-739fe865-7463-4d38-9d15-dcc2f9c9c1ec.png">
 
 
